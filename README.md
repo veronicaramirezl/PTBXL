@@ -18,7 +18,7 @@ Content of this Repository
 
 Running the EDA Notebooks
 
-Download the PTB-XL database from PhysioNet and place it in the data folder.
+Download the PTB-XL database from PhysioNet and place it in your folder.
 Ensure you have Jupyter Notebooks and required libraries installed (in the requirements folder)
 Open the Jupyter Notebook environment and navigate to the desired notebook within the notebooks directory.
 Run the notebook cells to execute the EDA code.
