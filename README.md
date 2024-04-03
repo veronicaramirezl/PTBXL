@@ -13,7 +13,6 @@ The PTB-XL database is not included in this repository and must be downloaded se
 Content of this Repository
 
 - notebooks/: Jupyter notebooks containing the EDA scripts.
-- data/: This folder is intended to store the downloaded PTB-XL data (not included).
 - README.md: This file (you are currently reading it!).
 - requirements.txt: here you can find the libraries needed to run the code. 
 
