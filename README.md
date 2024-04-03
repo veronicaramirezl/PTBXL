@@ -15,7 +15,7 @@ Content of this Repository
 notebooks/: Jupyter notebooks containing the EDA scripts.
 data/: This folder is intended to store the downloaded PTB-XL data (not included).
 README.md: This file (you are currently reading it!).
-requirements.html: here you can find the libraries needed to run the code. 
+requirements.txt: here you can find the libraries needed to run the code. 
 
 Running the EDA Notebooks
 
